@@ -1,0 +1,3 @@
+/home/designpattern/groovy-builder/build/CMakeFiles/rebuild_cache.dir
+/home/designpattern/groovy-builder/build/CMakeFiles/srp.dir
+/home/designpattern/groovy-builder/build/CMakeFiles/edit_cache.dir

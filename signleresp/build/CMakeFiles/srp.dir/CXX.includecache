@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/designpattern/signleresp/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+boost/lexical_cast.hpp
+-
+

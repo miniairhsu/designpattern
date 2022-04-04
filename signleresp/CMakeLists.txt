@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(design_pattern)
+find_package( Boost REQUIRED)
+include_directories( ${Boost_INCLUDE_DIRS} )
+add_executable(srp main.cpp)
