@@ -1,0 +1,3 @@
+/home/designpattern/factory/build/CMakeFiles/rebuild_cache.dir
+/home/designpattern/factory/build/CMakeFiles/srp.dir
+/home/designpattern/factory/build/CMakeFiles/edit_cache.dir

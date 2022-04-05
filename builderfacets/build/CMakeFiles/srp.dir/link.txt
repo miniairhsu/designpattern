@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/srp.dir/Facets.cpp.o CMakeFiles/srp.dir/Person.cpp.o CMakeFiles/srp.dir/PersonBuilder.cpp.o  -o srp 
