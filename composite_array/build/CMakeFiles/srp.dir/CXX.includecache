@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miniair/academy/designpattern/designpattern/composite_array/main.cpp
+array
+-
+iostream
+-
+numeric
+-
+algorithm
+-
+

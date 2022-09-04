@@ -1,0 +1,3 @@
+/home/miniair/academy/designpattern/designpattern/visitor_intrusive/build/CMakeFiles/rebuild_cache.dir
+/home/miniair/academy/designpattern/designpattern/visitor_intrusive/build/CMakeFiles/edit_cache.dir
+/home/miniair/academy/designpattern/designpattern/visitor_intrusive/build/CMakeFiles/srp.dir

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miniair/academy/designpattern/designpattern/mediator_room/ChatRoom.cpp
+Person.hpp
+/home/miniair/academy/designpattern/designpattern/mediator_room/Person.hpp
+ChatRoom.hpp
+/home/miniair/academy/designpattern/designpattern/mediator_room/ChatRoom.hpp
+
+/home/miniair/academy/designpattern/designpattern/mediator_room/ChatRoom.hpp
+algorithm
+-
+
+/home/miniair/academy/designpattern/designpattern/mediator_room/Person.cpp
+Person.hpp
+/home/miniair/academy/designpattern/designpattern/mediator_room/Person.hpp
+ChatRoom.hpp
+/home/miniair/academy/designpattern/designpattern/mediator_room/ChatRoom.hpp
+iostream
+-
+
+/home/miniair/academy/designpattern/designpattern/mediator_room/Person.hpp
+string
+-
+vector
+-
+
+/home/miniair/academy/designpattern/designpattern/mediator_room/main.cpp
+Person.hpp
+/home/miniair/academy/designpattern/designpattern/mediator_room/Person.hpp
+ChatRoom.hpp
+/home/miniair/academy/designpattern/designpattern/mediator_room/ChatRoom.hpp
+

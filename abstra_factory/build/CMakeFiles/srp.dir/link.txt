@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/srp.dir/AbstractFactory.cpp.o  -o srp 

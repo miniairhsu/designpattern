@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miniair/academy/designpattern/designpattern/flyweight/main.cpp
+iostream
+-
+string
+-
+cstdint
+-
+boost/bimap.hpp
+-
+boost/flyweight.hpp
+-
+boost/flyweight/key_value.hpp
+-
+

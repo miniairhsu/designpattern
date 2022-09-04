@@ -1,0 +1,3 @@
+/home/miniair/academy/designpattern/designpattern/state_classic/build/CMakeFiles/rebuild_cache.dir
+/home/miniair/academy/designpattern/designpattern/state_classic/build/CMakeFiles/edit_cache.dir
+/home/miniair/academy/designpattern/designpattern/state_classic/build/CMakeFiles/srp.dir

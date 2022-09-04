@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miniair/academy/designpattern/designpattern/state_boost2/main.cpp
+iostream
+-
+string
+-
+vector
+-
+boost/statechart/state_machine.hpp
+-
+boost/statechart/simple_state.hpp
+-
+boost/statechart/event.hpp
+-
+boost/statechart/transition.hpp
+-
+boost/statechart/custom_reaction.hpp
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miniair/academy/designpattern/designpattern/composite_neuraons/main.cpp
+cstdio
+-
+vector
+-
+iostream
+-
+boost/predef/library/c.h
+-
+boost/predef/library/c.h
+-
+boost/predef/library/c.h
+-
+boost/predef/library/c.h
+-
+

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miniair/academy/designpattern/designpattern/decorate_dynamic/main.cpp
+string
+-
+iostream
+-
+vector
+-
+sstream
+-
+boost/algorithm/string.hpp
+-
+boost/lexical_cast.hpp
+-
+
